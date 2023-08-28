@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Welcome to Hyun Jung KANG's homepage."
 email: 'clinguist.hjkang@gmail.com'
-description: "I'm a Computational Linguistics/Natural Language Processing specialist currently working on my side project: WanderWords"
+description: "I'm a Computational Linguistics and Natural Language Processing specialist currently working on my side project: WanderWords"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clinguist-hjkang.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
