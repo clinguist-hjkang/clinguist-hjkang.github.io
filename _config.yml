@@ -28,7 +28,7 @@ markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 remote_theme: jamigibbs/phantom
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-remote-theme
 
 ### Phantom settings
 footer_text: '© 2023 Hyun Jung KANG'
