@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Welcome to WonderWords!'
+title: 'Welcome to WanderWords!'
 date: 2023-08-20 15:56:00
 categories: project
 tags: WorderWords Python R SQL scikit-learn PyTorch TensorFlow Tableau
