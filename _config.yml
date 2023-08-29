@@ -32,7 +32,8 @@ plugins:
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
-section_title: "Your Section Title"
+section_title: "Welcome to My Portfolio"
+section_subtitle: "Explore my work and projects"
 
 paginate: 10
 paginate_path: "/page:num/"
