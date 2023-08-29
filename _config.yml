@@ -22,6 +22,8 @@ url: "https://clinguist-hjkang.github.io" # the base hostname & protocol for you
 linkedin_username: 'clinguist-hjkang'
 github_username: 'clinguist-hjkang'
 # medium_username: 'blog.jamigibbs.com'
+section-title: "Welcome to My Portfolio"
+section-subtitle: "Explore my work and projects"
 
 # Build settings
 markdown: kramdown
@@ -32,9 +34,6 @@ plugins:
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
-section-title: "Welcome to My Portfolio"
-section-subtitle: "Explore my work and projects"
-
 paginate: 10
 paginate_path: "/page:num/"
 
