@@ -23,9 +23,9 @@ linkedin_username: 'clinguist-hjkang'
 github_username: 'clinguist-hjkang'
 # medium_username: 'blog.jamigibbs.com'
 section_title: 'Latest Work'
-section_subtitle: >
-"Have a look at the WanderWords project 
-I'm working on right now"
+section_subtitle:
+ >'Have a look at the WanderWords project'
+ >"I'm working on right now"
 
 # Build settings
 markdown: kramdown
