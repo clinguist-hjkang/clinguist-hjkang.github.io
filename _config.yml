@@ -104,5 +104,5 @@ enable_contact: true
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-  - { url: '/cv', text: 'CV' }
+  - { url: '/about', text: 'About Me' }
+  - { url: '/wanderwords', text: 'WanderWords' }
