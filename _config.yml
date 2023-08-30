@@ -29,7 +29,7 @@ section_subtitle: "Have a look at the WanderWords project I'm working on right n
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
